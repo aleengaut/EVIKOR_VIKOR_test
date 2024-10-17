@@ -1,0 +1,2 @@
+# EVIKOR_VIKOR_test
+EVIKOR_VIKOR test in KNIME
